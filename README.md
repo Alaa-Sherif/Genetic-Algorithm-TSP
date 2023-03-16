@@ -79,5 +79,9 @@ Genetic Algorithm (GA) is a metaheuristic algorithm that simulates the process o
             
   ![image](https://user-images.githubusercontent.com/43891138/225488092-c3f3da9e-0a3e-4fab-b990-aac92da6bd18.png)
   
-  
+ # How it works
+
+https://user-images.githubusercontent.com/43891138/225491910-3dcd00f4-2f6e-49ce-8d10-dfbaf68d9948.mp4
+
+
 
